@@ -19,4 +19,4 @@
 *(Будет заполнено позже, когда напишем код)*
 
 # 6. Ссылка на демо
-*(Будет добавлено перед дедлайном)*
+https://drive.google.com/file/d/1OiTdgZf7yYln47iEQaBCS5wm3p9HaYcB/view?usp=sharing
